@@ -1,3 +1,5 @@
+## WARNING &mdash; this is a fork of the DeepPicker GitHub repo (commit hash [3f46c8b](https://github.com/nejyeah/DeepPicker-python/commit/3f46c8b0ffe2dbaa837fd9399b4a542588e991e6)) for posterity and to be used with REPIC installations. See here for more information: [REPIC documentation](https://github.com/ccameron/REPIC/blob/main/docs/deeppicker.md). Please reference and post issues related to DeepPicker in the official DeepPicker GitHub repo: [https://github.com/nejyeah/DeepPicker-python](https://github.com/nejyeah/DeepPicker-python)
+
 # DeepPicker
 
 For more details about 'DeepPicker', please refer to the paper [DeepPicker](https://arxiv.org/abs/1605.01838). 
